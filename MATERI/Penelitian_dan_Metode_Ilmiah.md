@@ -1,5 +1,6 @@
 # Penelitian dan Metode Ilmiah
 
+<br>
 ## Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
 
 - **Pengetahuan** adalah segala sesuatu yang diketahui manusia melalui tiga kemampuan utama, yakni berpikir, merasakan, dan mengindera. Pengetahuan diperoleh melalui proses penalaran dan dapat ditinjau dari sudut akal atau pengalaman.
@@ -91,10 +92,10 @@ Metode ilmiah adalah cara sistematis untuk memperoleh pengetahuan baru yang digu
 
 Langkah-langkah Metode Ilmiah:
 
-1. Identifikasi Masalah: Menemukan dan menetapkan masalah yang akan diteliti.
-2. Merumuskan Hipotesis: Menyusun proposisi atau dugaan sementara yang harus diuji.
-3. Mengumpulkan dan Menganalisis Data: Melakukan pengumpulan data dari fenomena yang diteliti dan mengujinya.
-4. Membuat Kesimpulan: Berdasarkan hasil pengujian, menyimpulkan apakah hipotesis diterima atau ditolak.
+1. **Identifikasi Masalah:** Menemukan dan menetapkan masalah yang akan diteliti.
+2. **Merumuskan Hipotesis:** Menyusun proposisi atau dugaan sementara yang harus diuji.
+3. **Mengumpulkan dan Menganalisis Data:** Melakukan pengumpulan data dari fenomena yang diteliti dan mengujinya.
+4. **Membuat Kesimpulan:** Berdasarkan hasil pengujian, menyimpulkan apakah hipotesis diterima atau ditolak.
 
 <br>
 
@@ -109,8 +110,8 @@ Langkah-langkah Metode Ilmiah:
 
 ## Alat Bantu Penelitian
 
-- Mendeley: Aplikasi untuk manajemen referensi.
-- Github: Platform untuk menyimpan dan berbagi kode.
-- Grammarly: Alat untuk memperbaiki tata bahasa dan ejaan.
-- OpenAI: Alat untuk eksplorasi data menggunakan kecerdasan buatan.
-- Ithenticate (Turnitin): Alat untuk memeriksa plagiarisme.
+- **Mendeley:** Aplikasi untuk manajemen referensi.
+- **Github:** Platform untuk menyimpan dan berbagi kode.
+- **Grammarly:** Alat untuk memperbaiki tata bahasa dan ejaan.
+- **OpenAI:** Alat untuk eksplorasi data menggunakan kecerdasan buatan.
+- **Ithenticate (Turnitin):** Alat untuk memeriksa plagiarisme.
