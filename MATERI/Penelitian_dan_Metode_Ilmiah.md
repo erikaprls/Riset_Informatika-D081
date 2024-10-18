@@ -1,20 +1,20 @@
 # Penelitian dan Metode Ilmiah
 
 <br>
+
 ## Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
 
-- **Pengetahuan** adalah segala sesuatu yang diketahui manusia melalui tiga kemampuan utama, yakni berpikir, merasakan, dan mengindera. Pengetahuan diperoleh melalui proses penalaran dan dapat ditinjau dari sudut akal atau pengalaman.
+**Pengetahuan** adalah segala sesuatu yang diketahui manusia melalui tiga kemampuan utama, yakni berpikir, merasakan, dan mengindera. Pengetahuan diperoleh melalui proses penalaran dan dapat ditinjau dari sudut akal atau pengalaman.
 
-- **Ilmu Pengetahuan** merupakan pengetahuan yang rasional, konsisten, sistematis, dan dapat diuji kebenarannya baik secara rasional (teori) maupun empiris (fakta).
-  Ilmu pengetahuan memerlukan bukti dan pengujian yang ketat untuk memastikan kebenarannya.
+**Ilmu Pengetahuan** merupakan pengetahuan yang rasional, konsisten, sistematis, dan dapat diuji kebenarannya baik secara rasional (teori) maupun empiris (fakta). Ilmu pengetahuan memerlukan bukti dan pengujian yang ketat untuk memastikan kebenarannya.
 
-- **Peran Teori**
+**Peran Teori**
 
 1. Mengarahkan perhatian terhadap masalah tertentu.
 2. Merangkum pengetahuan sehingga lebih mudah dipahami.
 3. Meramalkan fakta berdasarkan pola yang sudah teruji.
 
-- **Peran Fakta**
+**Peran Fakta**
 
 1. Fakta dapat menolak atau menerima teori yang ada.
 2. Dapat melahirkan teori baru atau memperbarui teori yang sudah ada.
@@ -26,12 +26,12 @@
 
 Adalah suatu usaha sistematis untuk mencari tahu jawaban atas suatu masalah atau pertanyaan tertentu. Penelitian sebagai sarana untuk mengembangkan dan meningkatkan pengetahuan serta memberikan solusi bagi masalah yang dihadapi.
 
-- Pertanyaan Penting dalam Penelitian:
+**Pertanyaan Penting dalam Penelitian:**
 
 1. Bagaimana pendekatan yang digunakan?
 2. Bagaimana proses penelitian dijalankan?
 
-- **Pendekatan Penelitian**
+**Pendekatan Penelitian**
 
 1. Pendekatan Rasional
 
