@@ -8,7 +8,7 @@ Repositori Riset_Informatika-D081 digunakan sebagai media pembelajaran dan pengu
 
 <br>
 
-## Daftar Isi
+## 📑 Daftar Isi
 
 - [Materi - Penelitian dan Metode Ilmiah](MATERI/Penelitian_dan_Metode_Ilmiah.md)
 - [Materi - Riset, Skripsi, dan Publikasi](MATERI/Riset,_Skripsi,_dan_Publikasi.md)
