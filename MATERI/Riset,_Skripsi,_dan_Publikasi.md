@@ -25,11 +25,13 @@ Contoh roadmap penelitian, digunakan untuk mengarahkan penelitian pada jalur yan
 
 **Struktur Skripsi**
 
-- **BAB I (Pendahuluan):** Latar belakang, perumusan masalah, batasan masalah, tujuan, dan manfaat penelitian.
-- **BAB II (Tinjauan Pustaka):** Penelitian terdahulu dan teori-teori yang mendasari penelitian.
-- **BAB III (Metode Penelitian):** Spesifikasi sistem, perancangan sistem, diagram alir, dan metode pengujian.
-- **BAB IV (Hasil dan Pembahasan):** Implementasi sistem dan hasil uji coba.
-- **BAB V (Kesimpulan dan Saran):** Kesimpulan dari hasil penelitian dan saran untuk penelitian selanjutnya.
+| **Bab** | **Judul**            | **Isi**                                                                             |
+| ------- | -------------------- | ----------------------------------------------------------------------------------- |
+| **I**   | Pendahuluan          | Latar belakang, perumusan masalah, batasan masalah, tujuan, dan manfaat penelitian. |
+| **II**  | Tinjauan Pustaka     | Penelitian terdahulu dan teori-teori yang mendasari penelitian.                     |
+| **III** | Metode Penelitian    | Spesifikasi sistem, perancangan sistem, diagram alir, dan metode pengujian.         |
+| **IV**  | Hasil dan Pembahasan | Implementasi sistem dan hasil uji coba.                                             |
+| **V**   | Kesimpulan dan Saran | Kesimpulan dari hasil penelitian dan saran untuk penelitian selanjutnya.            |
 
 **Tools untuk Skripsi:** Mendeley dan Plagiarism Check.
 
