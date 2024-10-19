@@ -15,3 +15,4 @@ Repositori Riset_Informatika-D081 digunakan sebagai media pembelajaran dan pengu
 - [TUGAS | Contoh Penelitian Dasar dan Terapan](TUGAS/Contoh_Penelitian_Dasar_dan_Terapan)
 - [MATERI | Jenis - Jenis Penelitian](MATERI/Jenis-Jenis_Penelitian.md)
 - [MATERI | Research Problem Formulation](MATERI/Research_Problem_Formulation.md)
+- [MATERI | Metode Penelitian (Deciding the Methodology)](<MATERI/Metode_Penelitian_(Deciding_the_Methodology).md>)
