@@ -12,6 +12,7 @@ Pemilihan metodologi sangat bergantung pada beberapa faktor :
 1. Sifat dari masalah penelitian dan paradigma yang diadopsi.
 2. Beberapa metodologi lebih sesuai untuk paradigma positivistik, sementara yang lain cocok untuk paradigma fenomenologis.
 3. Peneliti juga dapat memilih untuk mencampur metodologi.
+
    <br>
 
 ## Paradigma Penelitian
