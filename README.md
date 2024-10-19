@@ -4,7 +4,7 @@
 
 **NPM: 21081010161** <hr>
 
-Repositori Riset_Informatika-D081 digunakan sebagai media pembelajaran dan pengumpulan tugas mata kuliah Riset Informatika D081 / 2024
+Repositori **Riset_Informatika-D081** digunakan sebagai media pembelajaran dan pengumpulan tugas mata kuliah Riset Informatika D081 / 2024
 
 <br>
 
@@ -16,4 +16,4 @@ Repositori Riset_Informatika-D081 digunakan sebagai media pembelajaran dan pengu
 - [MATERI | Jenis - Jenis Penelitian](MATERI/Jenis-Jenis_Penelitian.md)
 - [MATERI | Research Problem Formulation](MATERI/Research_Problem_Formulation.md)
 - [MATERI | Metode Penelitian (Deciding the Methodology)](<MATERI/Metode_Penelitian_(Deciding_the_Methodology).md>)
-- [TUGAS | Contoh Penelitian (Method - Methodology](TUGAS/Contoh_Penelitian_Method_dan_Methodology)
+- [TUGAS | Contoh Penelitian (Method - Methodology)](TUGAS/Contoh_Penelitian_Method_dan_Methodology)
