@@ -17,3 +17,4 @@ Repositori **Riset_Informatika-D081** digunakan sebagai media pembelajaran dan p
 - [MATERI | Research Problem Formulation](MATERI/Research_Problem_Formulation.md)
 - [MATERI | Metode Penelitian (Deciding the Methodology)](<MATERI/Metode_Penelitian_(Deciding_the_Methodology).md>)
 - [TUGAS | Contoh Penelitian (Method - Methodology)](TUGAS/Contoh_Penelitian_Method_dan_Methodology)
+- [EAS | Proposal Riset (Penerapan Super Resolusi Citra Deep Back-Projection Network (DBPN) dan Denoising Autoencoder (DAE) untuk Restorasi Citra Arsip Foto Lama )](EAS/)
